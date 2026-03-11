@@ -1,4 +1,4 @@
-# 🔐 AI-Powered Password Strength Analyzer with Breach Detection
+# 🔐 PassGuard AI (AI-Password Strength Analyzer with Breach Detection)
 
 An intelligent password evaluator that combines **Google's Gemini AI** for smart strength analysis and the **Have I Been Pwned (HIBP)** API to check for compromised passwords in real time.
 
