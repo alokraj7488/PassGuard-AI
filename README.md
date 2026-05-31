@@ -17,8 +17,7 @@ Unlike traditional rule-based tools, this analyzer delivers **personalized, natu
 - **Backend**: Python, Flask
 - **AI**: Google Generative AI (Gemini API)
 - **Security**: Have I Been Pwned API (v3)
-- **Frontend**: HTML5, CSS3, Vanilla JavaScript (or specify if you used a framework)
-- **Environment Management**: `.env` for secure API key handling
+- **Frontend**: HTML5, CSS3, JavaScript (or specify if you used a framework)
 
 ## 🚀 Quick Start
 
@@ -30,5 +29,5 @@ Unlike traditional rule-based tools, this analyzer delivers **personalized, natu
 ### Setup
 
 1. **Clone the repository** -
-   git clone https://github.com/alokraj7488/AI-Powered_Password_Strength_Analyzer.git
-   cd AI-Powered_Password_Strength_Analyzer
+   https://github.com/alokraj7488/PassGuard-AI.git
+   cd PassGuard-AI.git
