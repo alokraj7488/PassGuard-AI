@@ -29,5 +29,5 @@ Unlike traditional rule-based tools, this analyzer delivers **personalized, natu
 ### Setup
 
 1. **Clone the repository** -
-  - https://github.com/alokraj7488/PassGuard-AI.git
-  - cd PassGuard-AI.git
+  - git clone https://github.com/alokraj7488/PassGuard-AI.git
+  - cd PassGuard-AI
