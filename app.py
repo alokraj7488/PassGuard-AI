@@ -1,13 +1,16 @@
 from flask import Flask, render_template, request, jsonify
 from google import genai
+from dotenv import load_dotenv
+import os
 import hashlib
 import requests
 import re
 
 app = Flask(__name__)
+load_dotenv()
 
 # ✅ Gemini configuration (NEW SDK)
-client = genai.Client(api_key="AIzaSyAZT_ARBQsqFzNgnEvWMZ0st_r1NHLyZ94")
+client = genai.Client(api_key=os.getenv("GEMINI_API_KEY"))
 
 
 # --- Function: Check password in HaveIBeenPwned ---
